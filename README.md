@@ -1,5 +1,5 @@
 # Lab05
-
+[![Coverage Status](https://coveralls.io/repos/github/HECCYLLIujTbmy/lab05-to4no/badge.svg?branch=master)](https://coveralls.io/github/HECCYLLIujTbmy/lab05-to4no?branch=master)
 ### Задание
 1. Создайте `CMakeList.txt` для библиотеки *banking*.
 2. Создайте модульные тесты на классы `Transaction` и `Account`.
